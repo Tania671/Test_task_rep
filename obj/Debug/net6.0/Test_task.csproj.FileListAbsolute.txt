@@ -1,0 +1,15 @@
+C:\projects\Test_task\bin\Debug\net6.0\Test_task.exe
+C:\projects\Test_task\bin\Debug\net6.0\Test_task.deps.json
+C:\projects\Test_task\bin\Debug\net6.0\Test_task.runtimeconfig.json
+C:\projects\Test_task\bin\Debug\net6.0\Test_task.dll
+C:\projects\Test_task\bin\Debug\net6.0\Test_task.pdb
+C:\projects\Test_task\obj\Debug\net6.0\Test_task.csproj.AssemblyReference.cache
+C:\projects\Test_task\obj\Debug\net6.0\Test_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Test_task\obj\Debug\net6.0\Test_task.AssemblyInfoInputs.cache
+C:\projects\Test_task\obj\Debug\net6.0\Test_task.AssemblyInfo.cs
+C:\projects\Test_task\obj\Debug\net6.0\Test_task.csproj.CoreCompileInputs.cache
+C:\projects\Test_task\obj\Debug\net6.0\Test_task.dll
+C:\projects\Test_task\obj\Debug\net6.0\refint\Test_task.dll
+C:\projects\Test_task\obj\Debug\net6.0\Test_task.pdb
+C:\projects\Test_task\obj\Debug\net6.0\Test_task.genruntimeconfig.cache
+C:\projects\Test_task\obj\Debug\net6.0\ref\Test_task.dll
